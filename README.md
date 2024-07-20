@@ -6,7 +6,7 @@ Creating my very own ML models for understanding and applying various machine le
 
 #### Supervised Learning
 
-- [] **Classification**
+-[] **Classification**
   - []K-Nearest Neighbors (KNN)
   - []Logistic Regression
   - []Support Vector Machines (SVM)
