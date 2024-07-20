@@ -7,38 +7,38 @@ Creating my very own ML models for understanding and applying various machine le
 #### Supervised Learning
 
 - [] **Classification**
-  - [ ]K-Nearest Neighbors (KNN)
-  - [ ]Logistic Regression
-  - [ ]Support Vector Machines (SVM)
-  - [ ]Decision Trees
-  - [ ]Random Forest
-  -[ ]Gradient Boosting Machines (GBM)
-  -[ ]Naive Bayes
-  - [ ]Neural Networks (Multi-layer Perceptron)
+  - []K-Nearest Neighbors (KNN)
+  - []Logistic Regression
+  - []Support Vector Machines (SVM)
+  - []Decision Trees
+  - []Random Forest
+  -[]Gradient Boosting Machines (GBM)
+  -[]Naive Bayes
+  - []Neural Networks (Multi-layer Perceptron)
 
-- [ ] **Regression**
-  - [ ]Linear Regression
-  - [ ]Ridge Regression
-  - [ ]Lasso Regression
-  - [ ]Support Vector Regression (SVR)
-  - [ ]Decision Trees Regression
-  - [ ]Random Forest Regression
-  - [ ]Gradient Boosting Regression
-  - [ ]Neural Networks Regression
+- [] **Regression**
+  - []Linear Regression
+  - []Ridge Regression
+  - []Lasso Regression
+  - []Support Vector Regression (SVR)
+  - []Decision Trees Regression
+  - []Random Forest Regression
+  - []Gradient Boosting Regression
+  - []Neural Networks Regression
 
 #### Unsupervised Learning
 
-- [ ] **Clustering**
-  - [ ]K-Means
-  - [ ]Hierarchical Clustering
-  - [ ]DBSCAN
-  - [ ]Gaussian Mixture Models (GMM)
+- [] **Clustering**
+  - []K-Means
+  - []Hierarchical Clustering
+  - []DBSCAN
+  - []Gaussian Mixture Models (GMM)
 
-- [ ] **Dimensionality Reduction**
-  - [ ]Principal Component Analysis (PCA)
-  - [ ] t-Distributed Stochastic Neighbor Embedding (t-SNE)
-  - [ ]Linear Discriminant Analysis (LDA)
-  - [ ]Autoencoders
+- [] **Dimensionality Reduction**
+  - []Principal Component Analysis (PCA)
+  - [] t-Distributed Stochastic Neighbor Embedding (t-SNE)
+  - []Linear Discriminant Analysis (LDA)
+  - []Autoencoders
 
 ### Getting Started
 
