@@ -1,3 +1,3 @@
-ml_env/bin/activate
-src/ml_env/*
 ml_env/
+*.py[cod]
+*.egg-info/
