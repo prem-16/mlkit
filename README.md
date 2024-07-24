@@ -29,13 +29,13 @@ Creating my very own ML models for understanding and applying various machine le
 #### Unsupervised Learning
 
 - [ ] **Clustering**
-  - [ ] K-Means
+  - [x] K-Means
   - [ ] Hierarchical Clustering
   - [ ] DBSCAN
   - [ ] Gaussian Mixture Models (GMM)
 
 - [ ] **Dimensionality Reduction**
-  - [ ] Principal Component Analysis (PCA)
+  - [x] Principal Component Analysis (PCA)
   - [ ] t-Distributed Stochastic Neighbor Embedding (t-SNE)
   - [ ] Linear Discriminant Analysis (LDA)
   - [ ] Autoencoders
